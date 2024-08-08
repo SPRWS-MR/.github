@@ -1,7 +1,8 @@
 <p align="center">
     <img src="https://github.com/user-attachments/assets/e4179cf3-b143-4e52-a59b-462c6b46c30c" title="sky blue waves">
+    Unofficial repo used to centralize automation and GIS scripting for the Engineering/Maps & Records groups. 
 </p>
-Unofficial repo used to centralize automation and GIS scripting for the Engineering/Maps & Records groups. 
+
 
 
 <p align="center">
